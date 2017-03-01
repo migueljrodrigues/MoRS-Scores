@@ -26,6 +26,7 @@ SYS -- Score for the output of the tested system.
 MAP   : 1.0000 0.8115
 AvgRec: 1.0000 0.8142
 MRR   : 100.00  88.44
+
               IR    SYS              IR    SYS              IR    SYS            IR  SYS
 REC-1@01: 100.00  79.10  ACC@01: 100.00  79.10  AC1@01:   1.00   0.79  AC2@01:  244  193
 REC-1@02: 100.00  93.85  ACC@02: 100.00  77.87  AC1@02:   1.00   0.78  AC2@02:  488  380
