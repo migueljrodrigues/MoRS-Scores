@@ -17,6 +17,7 @@ F1  = 0.8528
 # Detailed ranking results
 
 IR  -- Score for the output of the IR system (baseline).
+
 SYS -- Score for the output of the tested system.
 
  | IR | SYS
